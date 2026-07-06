@@ -1,0 +1,7 @@
+id_compra,id_usuario,produto,valor,data_compra
+101,1,Notebook,R$ 3500.00,2026-01-10
+102,2,Smartphone,2100.50,2026/01/12
+103,1,Mouse,R$ 150.00,2026-01-15
+104,3,Teclado,,2026-01-20
+105,4,Monitor,1200.00,2026-01-22
+106,6,Cadeira Gamer,R$ 950.00,2026-01-25
